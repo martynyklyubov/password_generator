@@ -2,7 +2,7 @@
 
 Python script that helps to generate a random password.
 Each time the program is run, a new password will be generated randomly.
-The passwords generated will be 12 characters long and will have to include the following characters in any order:
+The passwords generated will be 8 characters long and will have to include the following characters in any order:
 
     2 uppercase letters from A to Z,
     2 lowercase letters from a to z,
